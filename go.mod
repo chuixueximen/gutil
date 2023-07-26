@@ -1,4 +1,4 @@
-module github.com/usthooz/gutil
+module github.com/chuixueximen/gutil
 
 go 1.13
 

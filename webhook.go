@@ -3,7 +3,7 @@ package gutil
 import (
 	"encoding/json"
 	"fmt"
-	xhttp "github.com/usthooz/gutil/http"
+	xhttp "github.com/chuixueximen/gutil/http"
 )
 
 // SendMsgToDinTalk 发送消息到钉钉
